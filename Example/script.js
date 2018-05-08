@@ -217,6 +217,7 @@ functions ["card_transceive_mode_stop"] = "";
 functions ["card_transceive_mode_start"] = "tx_crc_ rx_crc_ rf_timeout_ uart_timeout";
 functions ["ReaderStillConnected"] = "connectedMod";
 functions ["GetNfcT2TVersion"] = "lpucVersionResponseMod";
+functions ["SetOutput"] = "output";
 
 function load() {
 
