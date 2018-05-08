@@ -1,3 +1,9 @@
+# UFR Chrome Extension
+
+Collection of cross-platform source code examples for using uFR NFC reader series with Chrome Browser Extensions. This allows you to have direct communication with uFR Shell.
+
+## Getting Started
+
 1. Open Google Chrome and navigate to chrome://extensions/
 2. Turn on developer mode.
 3. Click on LOAD UNPACKED and select folder 'Extension'.
